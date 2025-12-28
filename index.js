@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 var http = require('https);
 
 //create a server object:
@@ -6,3 +7,5 @@ http.createServer(function (req, res) {
   res.write('Welcome to DevOps Training'); //write a response to the client
   res.end(); //end the response
 }).listen(81); //the server object listens on port 80
+=======
+>>>>>>> parent of 204a9d9 (Update index.js)
